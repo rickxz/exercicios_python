@@ -1,0 +1,1 @@
+Exercícios de Python da matéria de Algoritmos e Programação I (ALG1) do curso de ADS do IFSP São Carlos
